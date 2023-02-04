@@ -4,4 +4,4 @@ This is a documentation repository for a class machineLab taught by professor Mi
 ### [Week1](week1.md)  
 ### [Week2](week2.md)  
 
-
+![](images/final_crank.jpg)

@@ -21,3 +21,8 @@ Later, after when I have built the slider and connected the motor, I was able to
 ### Findings & Future Steps
 - I am amazed by the sturdiness of the triangle!
 - I want to program a code that controls the speed of the motor 
+
+### Additional Images
+<img src="images/3.png" width="400">
+<img src="images/4.png" width="400">
+<img src="images/5.png" width="400">

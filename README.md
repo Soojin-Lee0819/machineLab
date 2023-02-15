@@ -6,4 +6,5 @@ This is a documentation repository for a class machineLab taught by professor Mi
 ![](images/final_crank.png)
 
 ### [Window Blind Mechanism Presentation | Febuary 15, 2023 ](https://github.com/Soojin-Lee0819/machineLab/tree/main/6February)
-![](images/window_blind.png)
+<img src="images/window_blind.png" width="600">
+

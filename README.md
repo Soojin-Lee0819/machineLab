@@ -9,4 +9,4 @@ This is a documentation repository for a class machineLab taught by professor Mi
 <img src="images/window_blind.png" width="600">
 
 ### [Sand Art Clock Idea | Febuary 20, 2023 ](https://github.com/Soojin-Lee0819/machineLab/tree/main/20Feburary)
-<img src="images/sand_art_idea.png" width="600">
+<img src="images/sand_art_idea.png" width="500">

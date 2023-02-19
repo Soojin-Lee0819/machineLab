@@ -15,9 +15,14 @@ This project was inspired by layered sand art, which creates a beautiful bottle 
 
 2) Every 30 minutes, the slit that covers the hole in the bottom of the bucket in row 2 moves its direction, uncovering the hole and allowing the sand to pour out into the bucket in row 1. This means that, when the 15 and 30 minute intervals overlap, the mechanisms for bucket from row 3 pouring into bucket 5, and for sand from bucket 5 pouring into bucket 7, can occur concurrently.
 
-3) Every full hour, the slit that covers the hole in the bottom of bucket 7 moves, uncovering the hole and allowing sand to pour out into the acrylic box. This way, the sand is gradually layered in the acrylic box until the sand in the source, row 3, runs out.
+3) Every full hour, the slit that covers the hole in the bottom of the bucket 7 moves its direction, uncovering the hole and allowing the sand to pour out to the acrylic box. This way, every hour, the sand is layered, and gradually fill up the acrylic box until the sand at the source, row3 runs out. 
 
-<img src="images/pour.png" width="500">
+### Mechanisms
+**Stepper Motor Turn and Dispense**
+<img src="images/turn_dispense.png" width="500">
+
+**Lid Cover and Uncover Dispense**
+<img src="images/lid.png" width="500">
 
 ### Extension & Questions
 I am exploring options to make this mechanism run infinitely, rather than having to stop when the sand on the top layers run out. Like water fountain mechanic, if I can bring the layered sand back to the source sand bottles, It can run infinitely. However, there are some challenges such as:
@@ -26,4 +31,5 @@ I am exploring options to make this mechanism run infinitely, rather than having
 
 
 ### Resources
-How to build **rotate and spill** mechanism [youtube video](https://www.youtube.com/watch?v=s8uNwQK8ew0). 
+How to build **Turn and Dispense** mechanism [youtube video](https://www.youtube.com/watch?v=s8uNwQK8ew0). 
+

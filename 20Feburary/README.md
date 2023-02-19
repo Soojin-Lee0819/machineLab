@@ -19,15 +19,15 @@ This project was inspired by layered sand art, which creates a beautiful bottle 
 
 ### Mechanisms
 **Stepper Motor Turn and Dispense**
+
 <img src="images/turn_dispense.png" width="500">
 
 **Lid Cover and Uncover Dispense**
+
 <img src="images/lid.png" width="500">
 
 ### Extension & Questions
-I am exploring options to make this mechanism run infinitely, rather than having to stop when the sand on the top layers run out. Like water fountain mechanic, if I can bring the layered sand back to the source sand bottles, It can run infinitely. However, there are some challenges such as:
-
-1) Sand color can get mixed up and it won't be able to make distinguished 
+I am exploring ways to make this mechanism run infinitely, instead of needing to stop when the sand in the top row runs out. Similar to a water fountain, if I can return the layered sand to the source sand bottles, it can run endlessly. However, there are some challenges, such as, the sand colors may become mixed, making them difficult to distinguish.
 
 
 ### Resources

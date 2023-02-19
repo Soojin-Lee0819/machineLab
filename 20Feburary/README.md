@@ -12,6 +12,7 @@ Sand art clock is the clock mechanism that pours sand from one bucket to another
 
 
 ### Inspiration 
+<img src="images/sand.jpg" width="500">
 The visual inspiration for this project are these layered sand art that layers different colored sand and create a beautiful bottle. 
 
 ### Extension & Questions

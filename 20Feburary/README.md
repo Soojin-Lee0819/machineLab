@@ -24,7 +24,7 @@ This project was inspired by layered sand art, which creates a beautiful bottle 
 
 **Lid Cover and Uncover Dispense**
 
-<img src="images/lid.png" width="500">
+<img src="images/lid.jpg" width="500">
 
 ### Extension & Questions
 I am exploring ways to make this mechanism run infinitely, instead of needing to stop when the sand in the top row runs out. Similar to a water fountain, if I can return the layered sand to the source sand bottles, it can run endlessly. However, there are some challenges, such as, the sand colors may become mixed, making them difficult to distinguish.

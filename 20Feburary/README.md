@@ -1,6 +1,8 @@
 ## Machine Presentation Ideation 
-### Sand Art Clock
+For this week, inspired by in-class reading/exercise and presentations, I ideated imaginary mechanism for clock. 
 
+### Sand Art Clock
+<img src="images/sand_art_idea.png" width="500">
 
 
 ### Resources

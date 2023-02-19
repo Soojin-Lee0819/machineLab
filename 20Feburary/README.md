@@ -17,6 +17,8 @@ This project was inspired by layered sand art, which creates a beautiful bottle 
 
 3) Every full hour, the slit that covers the hole in the bottom of bucket 7 moves, uncovering the hole and allowing sand to pour out into the acrylic box. This way, the sand is gradually layered in the acrylic box until the sand in the source, row 3, runs out.
 
+<img src="images/pour.png" width="500">
+
 ### Extension & Questions
 I am exploring options to make this mechanism run infinitely, rather than having to stop when the sand on the top layers run out. Like water fountain mechanic, if I can bring the layered sand back to the source sand bottles, It can run infinitely. However, there are some challenges such as:
 

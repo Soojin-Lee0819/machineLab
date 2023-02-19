@@ -1,23 +1,21 @@
 # Imaginary Mechanism for Clock
-For this week, inspired by in-class reading/exercise and presentations, I ideated imaginary mechanism for clock. 
+The objective of this assignment was to ideate an imaginary mechanism for a clock, inspired by in-class readings, exercises, and presentations.
 
 ### Sand Art Clock
 <img src="images/sand_art_idea.png" width="500">
 
-
-Sand art clock is the clock mechanism that pours sand from one bucket to another at specific time, every quarter, half, and full hour, to eventually make a layered sand art. This project is inspired by the sand art that I saw at souq where, the sand artist pour in colored sand in layers to create a beautiful sand art in a bottle. 
-
-
+Sand art clocks are clock mechanisms that pour sand from one bucket to another at specific times: every quarter, half, and full hour. This ultimately creates a layered sand art. This project was inspired by the sand art I saw at a souq, where a sand artist would pour in colored sand in layers to create beautiful sand art in a bottle.
 
 ### Inspiration 
 <img src="images/sand.jpg" width="500">
-The visual inspiration for this project are these layered sand art that layers different colored sand and create a beautiful bottle.  
+This project was inspired by layered sand art, which creates a beautiful bottle by layering different colored sand.
 
 ### How it works?
-1) Every 15 minutes (15, 30, 45, 60) one sand bucket among the four sand buckets in the first row turn 180 degree and pour the sand to the 30 minute bucket in the second row for 30 seconds. The colors are poured in order for every quarter hour for example, yellow -> pink -> orange -> green in order. 
-2) Every 30 minutes (30,60), the second row buckets move, that is the bottom cover tilts and opens the tiny hole for sand to rain to the big bucket in the forst row. This way, for 30 , 60 minutes, two mechanism can happen concurrently, where the pink sand is pouring from bucket 2 while bucket 4 is pouring sand out. 
-3) 
+1) Every 15 minutes (at 15, 30, 45, and 60 minutes), one of the four sand buckets in the third row turns 180 degrees and pours sand into the 30-minute bucket in the second row for 30 seconds. The bucket is fitted with a cap with a hole, so the sand is released gradually. The colors are poured in order every quarter hour; for example, for the image above, yellow, then pink, orange and finally green.
 
+2) Every 30 minutes, the slit that covers the hole in the bottom of the bucket in row 2 moves its direction, uncovering the hole and allowing the sand to pour out into the bucket in row 1. This means that, when the 15 and 30 minute intervals overlap, the mechanisms for bucket from row 3 pouring into bucket 5, and for sand from bucket 5 pouring into bucket 7, can occur concurrently.
+
+3) Every full hour, the slit that covers the hole in the bottom of bucket 7 moves, uncovering the hole and allowing sand to pour out into the acrylic box. This way, the sand is gradually layered in the acrylic box until the sand in the source, row 3, runs out.
 
 ### Extension & Questions
 I am exploring options to make this mechanism run infinitely, rather than having to stop when the sand on the top layers run out. Like water fountain mechanic, if I can bring the layered sand back to the source sand bottles, It can run infinitely. However, there are some challenges such as:

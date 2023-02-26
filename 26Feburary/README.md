@@ -17,3 +17,4 @@ Link: [Potentiometer](https://www.canva.com/design/DAFbqn-rhvg/DjGGsZ8sHJCcXQpfO
 ### Userful References
 https://docs.arduino.cc/learn/electronics/potentiometer-basics#circuit
 https://eepower.com/resistor-guide/resistor-types/potentiometer/
+https://www.electrical4u.com/potentiometer/

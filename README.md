@@ -5,8 +5,11 @@ This is a documentation repository for a class machineLab taught by professor Mi
 
 ![](images/final_crank.png)
 
-### [Window Blind Mechanism Presentation | Febuary 15, 2023 ](https://github.com/Soojin-Lee0819/machineLab/tree/main/6February)
+### [Window Blind Mechanism Presentation | Febuary 15, 2023 ](https://github.com/Soojin-Lee0819/machineLab/tree/main/15February)
 <img src="images/window_blind.png" width="600">
 
 ### [Sand Art Clock Idea | Febuary 20, 2023 ](https://github.com/Soojin-Lee0819/machineLab/tree/main/20Feburary)
 <img src="images/sand_art_idea.png" width="500">
+
+### [Potentiometer Presentation | Febuary 27, 2023 ](https://github.com/Soojin-Lee0819/machineLab/tree/main/27February)
+<img src="images/window_blind.png" width="600">

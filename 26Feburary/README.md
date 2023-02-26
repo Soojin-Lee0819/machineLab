@@ -13,3 +13,6 @@ Link: [Potentiometer](https://www.canva.com/design/DAFbqn-rhvg/DjGGsZ8sHJCcXQpfO
 <img src="images/8.jpg" width="800">
 <img src="images/9.jpg" width="800">
 <img src="images/10.jpg" width="800">
+
+### Userful References
+https://docs.arduino.cc/learn/electronics/potentiometer-basics#circuit

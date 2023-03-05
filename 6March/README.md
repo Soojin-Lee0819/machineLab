@@ -10,3 +10,20 @@ The objective of this assignment was to design the portion of the clock based on
 
 [Final Product from behind]
 <img src="images/sand3.jpg" width="600">
+
+
+### Resources & Linkes
+[Sand falling aesthetic inspiration]
+https://youtube.com/shorts/JjmKS9F7B0M?feature=share
+
+<img src="images/resource1.jpg" width="400">
+
+[Servo-motor rotation mechanic]
+https://youtu.be/iQVR9BI517I
+
+<img src="images/resource2.jpg" width="400">
+
+[Application & Materials]
+https://www.youtube.com/watch?v=lep6wm2yv-Y
+
+<img src="images/resource3.jpg" width="400">

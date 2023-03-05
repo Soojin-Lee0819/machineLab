@@ -1,5 +1,5 @@
 # Imaginary Mechanism for Clock
-The objective of this assignment was to redesign and sketch idea based on the feedback and our chosen theme of UAE, Abu Dhabi as a theme 
+The objective of this assignment was to design the portion of the clock based on the theme "The UAE".
 
 ### Sand Art Clock
 <img src="images/sand1.jpg" width="600">

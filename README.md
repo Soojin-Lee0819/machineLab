@@ -13,3 +13,7 @@ This is a documentation repository for a class machineLab taught by professor Mi
 
 ### [Potentiometer Presentation | Febuary 27, 2023 ](https://github.com/Soojin-Lee0819/machineLab/tree/main/26Feburary)
 <img src="images/window_blind.png" width="600">
+
+
+### [Sand Art Clock Idea #2 | Mar 6, 2023 ](https://github.com/Soojin-Lee0819/machineLab/tree/main/6March)
+<img src="images/sand1.png" width="600">

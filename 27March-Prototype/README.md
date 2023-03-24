@@ -35,4 +35,9 @@ Making the right size of hole between the two bottles, where the rice can pass t
 
 ### Choosing the right motor
 
-### Choosing the material that can act as "Sand"
+<img src="images/youtube2.png" width="500">
+
+https://www.youtube.com/shorts/GYxhElcZuuM
+
+Initially, I created a prototype using a DC motor. However, during a help session with Professor Michael Shiloh, I learned that a DC motor is not ideal for the desired mechanism because it does not track the degree of rotation. Instead, a servo motor would allow me to track and specify the degree of rotation. Since the motor does not have to turn 360 degrees, the fact that it has to rotate 180 degrees and return back to 0 degree was not an issue for me.
+

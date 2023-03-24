@@ -20,7 +20,8 @@ For the prototype, I decided to create a sand-clock that rotates 180 degrees at 
 https://youtu.be/7aoLej9mUvs
 
 
-### Progress 
+### Progress 1 | Building Structure
+<img src="images/progress.png" width="500">
 
 ### Choosing right motor 
 

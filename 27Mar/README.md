@@ -8,3 +8,4 @@ https://github.com/Soojin-Lee0819/machineLab/blob/main/27Mar/Wintergatan%20Marbl
 
 
 [Presentation]
+https://github.com/Soojin-Lee0819/machineLab/blob/main/27Mar/WINTERGATAN%20Marble%20machine%20Presentation.pdf

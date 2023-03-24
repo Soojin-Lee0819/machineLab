@@ -1,5 +1,10 @@
 # Wintergatan's Marble Machine
-Below is a link to a 3-pages long research paper explaining Wintergatan's Marble Machine Project.
+
 <img src="images/wintergatan.jpg" width="600">
 
+[Research Paper]
 
+https://github.com/Soojin-Lee0819/machineLab/blob/main/27Mar/Wintergatan%20Marble%20Machine.pdf
+
+
+[Presentation]

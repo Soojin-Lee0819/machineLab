@@ -19,4 +19,4 @@ This is a documentation repository for a class machineLab taught by professor Mi
 <img src="images/sand1.jpg" width="600">
 
 ### [Wintergatan's Marble Machine | Mar 27, 2023 ](https://github.com/Soojin-Lee0819/machineLab/tree/main/27March)
-<img src="images/wintergatan.jpg" width="600">
+<img src="images/wintergatan.jpg" width="500">

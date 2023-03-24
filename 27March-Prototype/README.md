@@ -9,9 +9,12 @@ The objective of this assignment was to make a prototype of the mechanism that I
 
 For the prototype, I wanted to create a sand clock rotation mechanism where the 
 
-[Video Demo] 
+### Final Prototype Video Demo
 
 https://youtu.be/7aoLej9mUvs
+
+
+### Progress 
 
 ### Choosing right motor 
 
